@@ -27,4 +27,5 @@
     text-align: center;
     color: var(--branco);
     background: url("../img/lupa.svg") no-repeat;
+    background-position: 1em;
 }
