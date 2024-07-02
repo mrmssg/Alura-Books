@@ -34,7 +34,10 @@
 .container__botao:checked ~ .lista-menu {
     display: block;
 }
-.lista-menu_titulo,
+.lista-menu_titulo{
+    color: var(--laranja);
+    font-weight: 700;
+  }
 .lista-menu_item {
     padding: 1em;
     }
