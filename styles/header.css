@@ -31,9 +31,6 @@
     border-radius: 0 0 20px 20px;
     background-color: var(--branco);
 }
-.container__botao{
-    display: none;
-  }
 .container__botao:checked ~ .lista-menu {
     display: block;
 }
@@ -54,3 +51,6 @@
     background-clip: text;
     text-transform: uppercase;
   }
+  .container__botao {
+    display: none;
+}
