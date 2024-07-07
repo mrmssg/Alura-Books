@@ -50,3 +50,10 @@ width: 100%;
     .descrição__texto{
       font-size: 14px;
     }
+    .botões__ancora{
+      background-color: var(--laranja);
+      padding: 1em 2.2em;
+      color: var(--branco);
+      font-weight: 700;
+      text-decoration: none;
+    }
