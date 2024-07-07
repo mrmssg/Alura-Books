@@ -28,4 +28,9 @@ width: 100%;
   .card__descrição{
     display: flex;
     justify-content: space-between;
+    margin-bottom: 5em;
+    }
+    .card__botões{
+        display: flexbox;
+        justify-content: space-around;
     }
