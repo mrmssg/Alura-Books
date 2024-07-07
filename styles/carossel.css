@@ -30,7 +30,10 @@ width: 100%;
     justify-content: space-between;
     margin-bottom: 5em;
     }
-    .card__botões{
-        display: flexbox;
+      .card__botões{
+        display: flex;
         justify-content: space-around;
+    }
+    .botôes{
+      display: flex;
     }
