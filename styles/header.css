@@ -85,5 +85,8 @@
         text-decoration: none;
         color: var(--preto);
       }
+      .container__imagem-transparente{
+        display: none;
+      }
   }
   
