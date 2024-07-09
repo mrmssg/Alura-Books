@@ -56,5 +56,17 @@
 }
 @media screen and (min-width: 1024px) {
     /* Estilos para tablets */
+    .container__titulo,
+    .container__titulo--negrito {
+      font-family: var(--fonte-secundario);
+      font-size: 30px;
+    }
+    .container__titulo {
+        font-weight: 400;
+      }
+      
+      .container__titulo--negrito {
+        font-weight: 700;
+      }
   }
   
