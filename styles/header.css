@@ -91,3 +91,8 @@
       .cabeçalho_menu-hamburguer{
         display: none;
       }
+      .opções_botão:checked ~ .lista-menu {
+        display: block;
+        width: auto;
+      }
+    }
