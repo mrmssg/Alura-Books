@@ -19,7 +19,9 @@
     display: flex;
     align-items: center;
 }
-
+.container__titulo{
+    display: none;
+}
 .container__imagem {
     padding: 1em;
 }
@@ -63,6 +65,7 @@
     }
     .container__titulo {
         font-weight: 400;
+        display: block;
       }
       
       .container__titulo--negrito {
