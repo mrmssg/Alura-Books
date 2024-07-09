@@ -95,4 +95,7 @@
         display: block;
         width: auto;
       }
+      .opções_botão {
+        display: none;
+      }
     }
