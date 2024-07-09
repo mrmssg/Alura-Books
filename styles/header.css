@@ -55,6 +55,9 @@
   }
   .container__botao {
     display: none;
+    .opções{
+        display: none;
+      }
 }
 @media screen and (min-width: 1024px) {
     /* Estilos para tablets */
