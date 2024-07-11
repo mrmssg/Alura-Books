@@ -70,4 +70,9 @@ width: 100%;
     .swiper{
       width: 60%;
     }
+    .swiper-button-next,
+    .swiper-button-prev{
+      display: block;
+      top: 60%;
+    }
     }
