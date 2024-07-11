@@ -60,3 +60,14 @@ width: 100%;
     .botões__itens{
       margin: 0 0.5em;
     }
+    @media screen and (min-width: 1024px) {
+    .carossel__titulo{
+      font-size: 26px;
+    }
+    .swiper-pagination{
+      margin: 2em 0 3em 0;
+    }
+    .swiper{
+      width: 60%;
+    }
+    }
