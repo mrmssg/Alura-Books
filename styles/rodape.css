@@ -10,4 +10,8 @@ hr{
         display: flex;
         justify-content: space-around;
     }
+    .rodape__item{
+        display: flex;
+        align-items: center;
+    }
 }
