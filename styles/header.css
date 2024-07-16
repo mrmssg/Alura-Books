@@ -108,6 +108,10 @@
       .opções__botão {
         display: none;
       }
+      .opções__botão:checked ~.opções__rotulo > .opções__item{
+        background: var(--azul-degrade);
+        color: var(--branco);
+      }
     }
     @media screen and (min-width: 1728px){
       .container__link{
