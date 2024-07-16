@@ -62,6 +62,12 @@
    .container__texto {
       display: none;
     }
+    .container__botao:checked ~.container__rotulo > .cabeçalho_menu-hamburguer{
+      background-image: url("../img/Menu-Aberto.png");
+    }
+    .container__botao:checked ~.container__rotulo{
+      background: var(--azul-degrade);
+    }
 
 @media screen and (min-width: 1024px) {
     /* Estilos para tablets */
@@ -116,10 +122,5 @@
       .container__texto {
         display: block;
       }
-      .container__botao:checked ~.container__rotulo > .cabeçalho_menu-hamburguer{
-        background-image: url("../img/Menu-Aberto.png");
-      }
-      .container__botao:checked ~.container__rotulo{
-        background: var(--azul-degrade);
-      }
+
     }
