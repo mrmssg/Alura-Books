@@ -62,7 +62,7 @@
    .container__texto {
       display: none;
     }
-    
+
 @media screen and (min-width: 1024px) {
     /* Estilos para tablets */
     .container__titulo,
@@ -112,5 +112,8 @@
       }
       .opções{
         margin-right: auto;
+      }
+      .container__texto {
+        display: block;
       }
     }
