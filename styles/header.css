@@ -116,7 +116,7 @@
         padding: 2em 1em;
       }
       .lista-menu_item :hover{
-        background: var();
+        background: var(--azul-degrade);
       }
     }
     @media screen and (min-width: 1728px){
