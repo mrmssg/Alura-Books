@@ -23,13 +23,13 @@ hr{
         margin: 0.6em 0;
     }
     .lista-rodapé__link{
-        var(--cinza);
+        color:var(--cinza);
         text-decoration: none;
         margin-left: 0.6em;
     }
     .lista-rodapé__titulo{
         font-size: 14px;
-        var(--cinza-claro);
+        color: var(--cinza-claro);
     }
     .rodape__titulo{
         font-size: 24px;
