@@ -106,5 +106,7 @@
         text-decoration: none;
         color: var(--preto);
       }
-
+      .opções{
+        margin-right: auto;
+      }
     }
