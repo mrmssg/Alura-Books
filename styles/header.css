@@ -115,8 +115,9 @@
       .opções__item{
         padding: 2em 1em;
       }
-      .lista-menu_item:hover {
-        background: var(--azul-degrade);
+      .lista-menu__item:hover > .lista-menu__link {
+        -webkit-text-fill-color: var(--branco);
+        text-decoration: none;
       }
     }
     @media screen and (min-width: 1728px){
