@@ -27,7 +27,7 @@ hr{
         text-decoration: none;
         margin-left: 0.6em;
     }
-    .lista-rodapé__título{
+    .lista-rodapé__titulo{
         font-size: 14px;
         var(--cinza-claro);
     }
