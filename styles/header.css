@@ -115,7 +115,7 @@
       .opções__item{
         padding: 2em 1em;
       }
-      .lista-menu__item:hover {
+      .lista-menu_item:hover {
         background: var(--azul-degrade);
       }
       .lista-menu_item:hover > .lista-menu_link {
